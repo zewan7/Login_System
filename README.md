@@ -27,6 +27,16 @@ python3 login_system.py
 pyinstaller setup.spec 
 更推荐：auto-py-to-exe 执行打包
 ```
+
+# 图片展示 
+> 登录界面可自定义图片，动态图，视频文件进行轮番展示
+
+> ![图片描述](app/images/logout/20240621233518.png)
+> ![图片描述](app/images/logout/20240621233347.png)
+
+> 项目3示例
+> ![图片描述](app/images/logout/20240621233235.png)
+
 # 项目目录
  PySide6_Login_System
 >app：登录系统相关程序
